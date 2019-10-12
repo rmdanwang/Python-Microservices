@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t rmdanwang/Python-Microservices .
+docker build -t rmdanwang/python-microservices .
